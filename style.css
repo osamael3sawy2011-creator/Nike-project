@@ -97,7 +97,7 @@ nav ul li a:hover{
         justify-content: center;
         }
         .content .image, .content .text{
-            width: 120%;
+            width: 100%;
     }
     body::after{
         clip-path: circle(50% at bottom)
